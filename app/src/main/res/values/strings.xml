@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ransom</string>
+    <string name="idade">Idade</string>
+    <string name="idade_editText">idade_editText</string>
+    <string name="nome_editText">nome_editText</string>
+    <string name="nome">Nome</string>
+    <string name="novo_paciente">Novo Paciente</string>
+    <string name="litiase_biliar">Litíase biliar</string>
+    <string name="leucocitos">Leucócitos</string>
+    <string name="leucocitos_edittext">leucocitos_editText</string>
+    <string name="c_l_mm3">cél./mm3</string>
+    <string name="glicemia">Glicemia</string>
+    <string name="glicemia_edittext">glicemia_EditText</string>
+    <string name="mmol_l">mmol/L</string>
+    <string name="ast_tgo">AST/TGO</string>
+    <string name="ast_edittext">ast_EditText</string>
+    <string name="ui_l">UI/L</string>
+    <string name="ldh">LDH</string>
+    <string name="ldh_edittext">ldh_EditText</string>
+    <string name="calcular">Calcular</string>
+</resources>
